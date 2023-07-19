@@ -2,6 +2,10 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+address {
+  font-style: normal;
+}
+
 a {
   text-decoration: none;
 }
@@ -34,7 +38,7 @@ h2 {
   letter-spacing: -0.03em;
 }
 
-nav a {
+.navigation a {
   color: #111;
   font-size: 14px;
   font-weight: 500;
